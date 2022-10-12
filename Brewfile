@@ -1,0 +1,21 @@
+tap "adoptopenjdk/openjdk"
+tap "dart-lang/dart"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "wkentaro/labelme"
+brew "bash"
+brew "cocoapods"
+brew "libusbmuxd", args: ["HEAD"]
+brew "libimobiledevice", args: ["HEAD"]
+brew "ideviceinstaller"
+brew "ios-deploy"
+brew "kotlin"
+brew "lcov"
+brew "node"
+brew "watchman"
+brew "yarn"
+brew "dart-lang/dart/dart"
+brew "wkentaro/labelme/labelme", link: false
+cask "adoptopenjdk8"
+cask "react-native-debugger"

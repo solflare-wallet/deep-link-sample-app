@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "deep-link-sample-app",
+    "slug": "deep-link-sample-app",
+    "owner": "solflare-wallet",
+    "privacy": "hidden",
+    "version": "1.0.0",
+    "scheme": "deep-link-sample-app",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
